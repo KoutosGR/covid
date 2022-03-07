@@ -28,7 +28,7 @@
         "document-title": "Βεβαίωση Αρνητικού Διαγνωστικού Ελέγχου Κορωνοϊού COVID-19",
         "state": "issued",
         "digest-sha256": ""
-    }
-  
+    },
+    "digest-sha256": "",
+    "state": "issued"
 }
-    
