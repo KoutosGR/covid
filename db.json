@@ -1,5 +1,4 @@
-{
-  "posts": [
+
       {
     "declaration": {
         "statements": {
@@ -34,4 +33,4 @@
     "digest-sha256": "",
     "state": "issued"
 }
-]}
+
