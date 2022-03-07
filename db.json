@@ -1,1 +1,38 @@
-{"declaration": {"statements": {"birth_date": "14/09/1948", "vaccine_type": "MODERNA", "shot_number": "3", "last_name_en": "KOUTOS", "last_name_el": "ΚΟΥΤΟΣ", "first_name_en": "GEORGIOS", "first_name_el": "ΓΕΩΡΓΙΟΣ", "event_3_date_web_title": "Ημερομηνία τρίτης δόσης / Date of 3nd dose", "event_3_date": "27/12/2021", "event_2_date_web_title": "Ημερομηνία δεύτερης δόσης / Date of 2nd dose", "event_2_date": "07/05/2021", "event_1_date_web_title": "Ημερομηνία πρώτης δόσης / Date of 1st dose", "event_1_date": "08/04/2021", "amka": "14094803153"}, "attachments": {}, "display": {}, "issuer": "services.gov.gr", "case_id": "114400591", "is_official": true, "template": {"refname": "COVID19-VACCINE-2", "digest-sha256": ""}, "timestamp": "2021-12-29T21:56:11.386771+00:00", "step": "final_view", "document-id": "34BULZnYwLDvK6m9cYLX9Q", "declaration-id": "114400591", "document-title": "Βεβαίωση εμβολιασμού COVID-19", "state": "issued", "digest-sha256": ""}, "digest-sha256": "", "state": "issued"}
+{
+    "declaration": {
+        "statements": {
+            "birth_date": "14/09/1948",
+            "vaccine_type": "MODERNA",
+            "shot_number": "3",
+            "last_name_en": "KOUTOS",
+            "last_name_el": "ΚΟΥΤΟΣ",
+            "first_name_en": "GEORGIOS",
+            "first_name_el": "ΓΕΩΡΓΙΟΣ",
+            "event_3_date_web_title": "Ημερομηνία τρίτης δόσης / Date of 3nd dose",
+            "event_3_date": "27/12/2021",
+            "event_2_date_web_title": "Ημερομηνία δεύτερης δόσης / Date of 2nd dose",
+            "event_2_date": "07/05/2021",
+            "event_1_date_web_title": "Ημερομηνία πρώτης δόσης / Date of 1st dose",
+            "event_1_date": "08/04/2021",
+            "amka": "14094803153"
+        },
+        "attachments": {},
+        "display": {},
+        "issuer": "services.gov.gr",
+        "case_id": "114400591",
+        "is_official": true,
+        "template": {
+            "refname": "COVID19-VACCINE-2",
+            "digest-sha256": ""
+        },
+        "timestamp": "2021-12-29T21:56:11.386771+00:00",
+        "step": "final_view",
+        "document-id": "34BULZnYwLDvK6m9cYLX9Q",
+        "declaration-id": "114400591",
+        "document-title": "Βεβαίωση εμβολιασμού COVID-19",
+        "state": "issued",
+        "digest-sha256": ""
+    },
+    "digest-sha256": "",
+    "state": "issued"
+}
