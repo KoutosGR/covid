@@ -1,4 +1,6 @@
 {
+  "posts": [
+      {
     "declaration": {
         "statements": {
             "result_value": "ΑΡΝΗΤΙΚΟ",
@@ -32,3 +34,4 @@
     "digest-sha256": "",
     "state": "issued"
 }
+]}
