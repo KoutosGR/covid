@@ -30,9 +30,6 @@
         "state": "issued",
         "digest-sha256": ""
     },
-    "digest-sha256": "",
-    "state": "issued"
-},
     "declaration": {
         "statements": {
             "result_value": "ΑΡΝΗΤΙΚΟ",
