@@ -32,5 +32,38 @@
     },
     "digest-sha256": "",
     "state": "issued"
+},
+    "declaration": {
+        "statements": {
+            "result_value": "ΑΡΝΗΤΙΚΟ",
+            "method_value": "RAPID",
+            "lastname": "ΑΝΤΩΝΙΑΔΟΥ",
+            "first_name": "ΧΡΙΣΤΙΝΑ",
+            "date_of_result": "05/03/2022",
+            "dateOfSample": "05/03/2022",
+            "birth_date": "08/11/1989",
+            "amka": "08118900128"
+        },
+        "attachments": {},
+        "display": {
+            "diagnosis/value": "RAPID Τεστ ανίχνευσης αντιγόνου του κορωνοϊού με τη μέθοδο ταχείας δοκιμασίας (COVID 19 Ag Rapid test)"
+        },
+        "issuer": "services.gov.gr",
+        "case_id": "185280193",
+        "is_official": true,
+        "template": {
+            "refname": "COVID19-CERT",
+            "digest-sha256": ""
+        },
+        "timestamp": "2022-03-07T10:34:58.145694+00:00",
+        "step": "final_view",
+        "document-id": "-GmUw62mGd7muRyIMNgUez",
+        "declaration-id": "185280192",
+        "document-title": "Βεβαίωση Αρνητικού Διαγνωστικού Ελέγχου Κορωνοϊού COVID-19",
+        "state": "issued",
+        "digest-sha256": ""
+    },
+    "digest-sha256": "",
+    "state": "issued"
 }
 }
